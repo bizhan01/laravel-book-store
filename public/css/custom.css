@@ -1,0 +1,19 @@
+@media print {
+	.no-print {
+		display: none;
+	}
+}
+
+.no-padding {
+	padding: 0px;
+}
+
+.edit {
+	border: none;
+	outline: none;
+	background: transparent;
+}
+
+.hide {
+	display: none !important;
+}

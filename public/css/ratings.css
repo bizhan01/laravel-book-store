@@ -1,0 +1,31 @@
+
+.pad10 {
+    padding: 10px;
+}
+
+.adv_rate {
+    padding-top: 5px;
+}
+
+.adv_rate label {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.label,
+.label.label-default {
+    border-radius: 3px;
+}
+
+.glyphicon-star,
+.empty-stars {
+    font-size: 30px;
+}
+
+.label.label-primary {
+    background-color: #418bca;
+}
+
+.empty-stars {
+    color: #aaa;
+}
